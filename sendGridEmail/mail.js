@@ -16,7 +16,7 @@ const sendEmail = (options)=>{
         auth:{
             
             user: 'apikey',
-            pass:'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',
+            pass:'SG.OwDRO4EESr2pnGFB9G6DPA.3p-wbnNBtDCBZ4A',
             
         }
 
